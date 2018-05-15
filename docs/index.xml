@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 PI4 Computational Bootcamp</title>
+    <link>/</link>
+    <description>Recent content on 2017 PI4 Computational Bootcamp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reading</title>
+      <link>/reading/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/</guid>
+      <description>Day 1. Programming Fundamentals  Wilson et al 2014 Best Practices for Scientific Computing Agile Manifesto Vincent Dresen &amp;ldquo;A successful Git branching model&amp;rdquo;  Day 2: Getting started with R  Introduction, Data Structures, Subsetting, Functions in &amp;ldquo;Advanced R&amp;rdquo; by Wickham &amp;ldquo;Git and GitHub&amp;rdquo; in &amp;ldquo;R packages&amp;rdquo; by Wickham.  Day 3: Databases and Visualization  LeBauer, David, et al. &amp;ldquo;BETYdb: a yield, trait, and ecosystem service database applied to second‐generation bioenergy feedstock production.</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/syllabus/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>Instructor: David LeBauer, PhD * Carl R Woese Institute for Genomic Biology * National Center for Supercomputing Applications, University of Illinois * email:dlebauer@illinois.edu * web: davidlebauer.com
+Course Objectives A two week course designed to introduce graduate students from the department of Mathematics to methods in software development, data science, and analysis. The goal is to prepare students to apply their understanding of math to solve problems in industry.
+Pre-requisites  Create an account at github.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/code_of_conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code_of_conduct/</guid>
+      <description>Contributor Covenant Code of Conduct Our Pledge In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Our Standards Examples of behavior that contributes to creating a positive environment include:</description>
+    </item>
+    
+  </channel>
+</rss>
