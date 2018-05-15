@@ -1,9 +1,9 @@
 baseurl = "/"
+relativeurls = true
 languageCode = "en-us"
-title = "2017 PI4 Computational Bootcamp"
-theme = "hugo-lithium"
+title = "2018 PI4 Computational Bootcamp"
+theme = "hugo-lithium-theme"
 googleAnalytics = "UA-98205888-2"
-disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
 
@@ -19,9 +19,6 @@ publishDir = "docs"
 [[menu.main]]
     name = "Syllabus"
     url = "/syllabus/"
-[[menu.main]]
-    name = "About"
-    url = "/about/"
 [[menu.main]]
     name = "Reading"
     url = "/reading/"
