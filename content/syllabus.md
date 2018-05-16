@@ -9,44 +9,47 @@ output:
 
 ## Instructor: 
 
-David LeBauer, PhD
-* Carl R Woese Institute for Genomic Biology
-* National Center for Supercomputing Applications, University of Illinois
-* email:dlebauer@illinois.edu 
-* web: [davidlebauer.com](https://www.davidlebauer.com)
+_David LeBauer, Ph.D._  
+University of Illinois     
+email:[dlebauer@illinois.edu](mailto:dlebauer@illinois.edu)  
+web: [davidlebauer.com](https://www.davidlebauer.com)
 
 ## Course Objectives
 
-A two week course designed to introduce graduate students from the department of Mathematics to methods in software development, data science, and analysis. The goal is to prepare students to apply their understanding of math to solve problems in industry.
+A two week course designed to introduce graduate students from the Department of Mathematics to methods in software development, data science, and analysis. The goal is to prepare students to apply their understanding of math to solve problems in industry.
 
-## Pre-requisites
+## Requirements
+
+### Code of Conduct
+
+All participants must read and abide by our [Code of Conduct](https://github.com/pi4-uiuc/2018-bootcamp/blob/master/CODE_OF_CONDUCT.md).
+
+
+### Preparation 
+
+Please do the following **before class starts**:
 
 1. Create an account at github.com
 2. Fill out the [pre-workshop survey](https://goo.gl/forms/GSS1Cngrzpn292c23)
 3. Signup for the [PI4 Slack channel](https://pi4uiuc.slack.com/signup) (requires email ending in illinois.edu or hawaii.edu email address)
 4. Complete "Introduction to R" and "Intermediate R" courses on Data Camp (I will send invitations)
 
-### Familarity with basic syntax and operations in R
+### Expectation: Familarity with basic syntax and operations in R
 
 Although the course is aimed at students with limited experience using software, you are expected to complete two introductory courses in order to become familiar with the basic syntax and operations in R. Two free courses from DataCamp are **Required** before the start of the second day (May 22) of the course.
 
-### Computers and Software 
+### Materials: Computers and Software 
 
 The only software requirement is a modern web browser. The classroom is equiped with desktop computers, though students are encouraged to bring laptops. Much of the instruction and collaborative work will be done using the NDS Labs Workbench. The NDS labs workbench provides Shell, R, and Python editors as well as access to large datasets and databases.
 
-
-### Code of Conduct
-
-All participants must read and abide by our [Code of Conduct](https://github.com/pi4-uiuc/2018-bootcamp/blob/master/CODE_OF_CONDUCT.md).
-
 ## Logistics
 
+### Location: 
 
-#### Location: 239 [Altgeld Hall](https://en.wikipedia.org/wiki/Altgeld_Hall), 
-
-University of Illinois Department of Mathematics
-1409 West Green Street
-Urbana, Il
+239 [Altgeld Hall](https://en.wikipedia.org/wiki/Altgeld_Hall)  
+University of Illinois Department of Mathematics  
+1409 West Green Street  
+Urbana, Il  
 
 #### Time: 9AM - 5PM
 
@@ -54,9 +57,9 @@ We will have two fifteen minute breaks and a one hour lunch break from 12-1, eac
 
 #### Dates: May 21 -- May 26, 2018
 
-* May 26: Computing Basics
-* May 30-June 2: Data and Statistics in R
-* June 9: Conclusion and Project Presentations
+* May 21: Scientific Computing Fundamentals
+* May 22 -- May 25: Data and Statistics in R
+* May 26: Conclusion and Project Presentations
 
 #### Daily Schedule:
 
@@ -106,6 +109,7 @@ Monday May 21
 Tuesday May 30
 
 1. [Getting Started with R and Rstudio (SWC 1-3)](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/)
+2. Rmarkdown and Reproducible Research 
 2. Loading and Evaluating Data
    * data types
    * [vectorization](http://swcarpentry.github.io/r-novice-gapminder/09-vectorization/)
@@ -191,5 +195,8 @@ Friday June 2
 Saturday May 26
 
 * Student-requested topics
+  * more details from earlier topic (advanced visualization?)
+  * Shiny apps
+  * dimensionality reduction and clustering?
 * Finish projects
 * Presentations
