@@ -6,24 +6,15 @@
     <description>Recent content on 2018 PI4 Computational Bootcamp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Reading</title>
-      <link>/reading/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/reading/</guid>
-      <description>Day 1. Programming Fundamentals  Wilson et al 2014 Best Practices for Scientific Computing Agile Manifesto Vincent Dresen &amp;ldquo;A successful Git branching model&amp;rdquo;  Day 2: Getting started with R  Introduction, Data Structures, Subsetting, Functions in &amp;ldquo;Advanced R&amp;rdquo; by Wickham &amp;ldquo;Git and GitHub&amp;rdquo; in &amp;ldquo;R packages&amp;rdquo; by Wickham.  Day 3: Databases and Visualization  LeBauer, David, et al. &amp;ldquo;BETYdb: a yield, trait, and ecosystem service database applied to second‐generation bioenergy feedstock production.</description>
-    </item>
-    
-    <item>
       <title>Syllabus</title>
       <link>/syllabus/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/syllabus/</guid>
       <description>Instructor: David LeBauer, Ph.D.
@@ -33,6 +24,15 @@ web: davidlebauer.com
 Course Objectives A two week course designed to introduce graduate students from the Department of Mathematics to methods in software development, data science, and analysis. The goal is to prepare students to apply their understanding of math to solve problems in industry.
 Requirements Code of Conduct All participants must read and abide by our Code of Conduct.
 Preparation Please do the following before class starts:</description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>/reading/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/</guid>
+      <description>Day 1. Programming Fundamentals  Wilson et al 2014 Best Practices for Scientific Computing Agile Manifesto Vincent Dresen &amp;ldquo;A successful Git branching model&amp;rdquo;  Day 2: Getting started with R  Introduction, Data Structures, Subsetting, Functions in &amp;ldquo;Advanced R&amp;rdquo; by Wickham &amp;ldquo;Git and GitHub&amp;rdquo; in &amp;ldquo;R packages&amp;rdquo; by Wickham.  Day 3: Databases and Visualization  LeBauer, David, et al. &amp;ldquo;BETYdb: a yield, trait, and ecosystem service database applied to second‐generation bioenergy feedstock production.</description>
     </item>
     
     <item>

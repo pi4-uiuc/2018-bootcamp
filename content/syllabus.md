@@ -1,6 +1,6 @@
 ---
 title: "Syllabus"
-date: "2017-05-05"
+date: "2018-05-15"
 output:
   blogdown::html_page:
     toc: "true"
