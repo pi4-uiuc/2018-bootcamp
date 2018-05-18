@@ -19,10 +19,12 @@ date: "2018-05-15"
   * [Functions](http://adv-r.had.co.nz/Functions.html)
 * [R for Data Science by Wickham and Gromeland](http://r4ds.had.co.nz)  
   * [Tidy Data](http://r4ds.had.co.nz/tidy-data.html)
+* [Daniel Kaplan (2017) Teaching Stats for Data Science, The American Statistician, 72:1, 89-96, DOI: 10.1080/00031305.2017.1398107](https://dx.doi.org/10.1080/00031305.2017.1398107)
 
 ### Databases and Visualization
 
 * [**Relational Data**](http://r4ds.had.co.nz/relational-data.html)
+* [**Organ]
 * Turning tables into graphs [Gelman et al 2002](http://www.tandfonline.com/doi/abs/10.1198/000313002317572790)
 * Beyond Bar and line graphs [**Weissgerber et al 2015**](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 * [Edward Tufte: Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR) 
