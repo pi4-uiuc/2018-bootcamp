@@ -1,19 +1,18 @@
 ---
-title: The Shell and Git
+title: The Unix Shell
 author: David LeBauer
 date: '2018-05-21'
 slug: the-shell-and-git
 categories:
   - shell
-  - git
-tags: []
+tags: [lesson]
 ---
 
 # The Terminal (Unix Shell)
 
 "What is a command shell and why would I use one?"
 
-This tutorial  is based on the [Software Carpentry Unix Shell](http://swcarpentry.github.io/shell-novice/))  [@swc_unix_shell] lesson, and will refer to it for background information.
+This tutorial is based on the [Software Carpentry Unix Shell](http://swcarpentry.github.io/shell-novice/))  lesson. We will refer to it for background information.
 
 Today we will learn 
 - how the shell relates to the keyboard, the screen, the operating system, and users' programs."
@@ -72,8 +71,13 @@ Lets get started. When you open a terminal, you will see something like:
 dlebauer@dlebauer-desktop:~$
 ```
 
-The `$` is called the command prompt. The information before it provides information about the computer we are on, in this case the user and computer names. For the purposes of the tutorial, we will enter the command `sh PS1='$ 'and press the ‘enter’ key so that only the `$` shows up. This isn’t necessary to follow along, but it is useful to know that you can change the information that the command prompt provides. In fact, there are many ways to customize your Shell - the prompt as well as the way it presents text - that are beyond the scope of this course (but easy to find on Google).
+The `$` is called the command prompt. The information before it provides information about the computer we are on, in this case the user and computer names. For the purposes of the tutorial, we will enter the command `export PS1='$ 'and press the ‘enter’ key so that only the `$` shows up. This isn’t necessary to follow along, but it is useful to know that you can change the information that the command prompt provides. In fact, there are many ways to customize your Shell - the prompt as well as the way it presents text - that are beyond the scope of this course (but easy to find on Google).
 
+We can customize this. See `echo $PS1`
+
+To show just the directory name `export PS1="\\w \$ "`
+
+But 
 First type the command `whoami`
 ```{sh}
 whoami
@@ -91,7 +95,7 @@ pwd
 
 This tells you your current working directory. On OSX it may look like `/Users/dlebauer/` while on Linux it may look like `/home/dlebauer` and on Windows `C:\Users\David LeBauer`. 
 
-What is in this direcotry?
+What is in this directory?
 
 The program `ls` will tell you:
 

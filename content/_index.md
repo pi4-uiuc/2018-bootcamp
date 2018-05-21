@@ -6,7 +6,7 @@ site: blogdown:::blogdown_site
 
 The 2018 PI4 computational Bootcamp will be held May 21 -- May 26, 2017 in 239 Altgeld Hall.
 
-The PI4 bootcamp is a six-day intensive course for for PI4 students prior to beginning summer internships as part of the NSF funded [PI4 Program for Interdisciplinary and Industrial Internships at Illinois](https://pi4.math.illinois.edu/). 
+The PI4 bootcamp is a six-day intensive course for for PI4 students prior to beginning summer internships as part of the NSF ([Award #1345032](https://nsf.gov/awardsearch/showAward?AWD_ID=1345032) funded [PI4 Program for Interdisciplinary and Industrial Internships at Illinois](https://pi4.math.illinois.edu/) ([Award #1345032](https://nsf.gov/awardsearch/showAward?AWD_ID=1345032) 
 
 
 ## Important Links

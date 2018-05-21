@@ -17,6 +17,9 @@ publishDir = "docs"
     name = "Reading"
     url = "/reading/"
 [[menu.main]]
+    name = "Lessons"
+    url = "/post/"
+[[menu.main]]
     name = "Conduct"
     url = "/CODE_OF_CONDUCT/"
 
