@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 2018 PI4 Computational Bootcamp</title>
+    <link>/tags/projects/</link>
+    <description>Recent content in Projects on 2018 PI4 Computational Bootcamp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects Overview</title>
+      <link>/2018/05/21/projects-overview/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/21/projects-overview/</guid>
+      <description>Class Projects Two groups:
+Each group will have a github repository that contains code developed to answer a specific question with data from the TERRA REF project.
+Here are the project topics / questions and links to their repositories.
+Met data:   Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm Use reanalysis data to validate data streams Extra Credit: Use PEcAn tools to gap-fill missing data  Trait and Geospatial Data   Map trait data Identify outliers Provide QA/QC of plot layout, that we are capturing expected regions of the field   Objectives Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc.</description>
+    </item>
+    
+  </channel>
+</rss>

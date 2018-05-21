@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/05/21/git-and-github/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/05/21/projects-overview/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/05/21/the-shell-and-git/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/reading/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url>
@@ -18,7 +33,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -27,7 +42,44 @@
   </url>
   
   <url>
+    <loc>/categories/git/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/github/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lesson/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/projects/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/shell/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

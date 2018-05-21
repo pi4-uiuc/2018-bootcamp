@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on 2018 PI4 Computational Bootcamp</title>
+    <link>/categories/github/</link>
+    <description>Recent content in Github on 2018 PI4 Computational Bootcamp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git and GitHub</title>
+      <link>/2018/05/21/git-and-github/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/21/git-and-github/</guid>
+      <description>Version Control Following SWC Git Novice 1-6
+Version control makes it possible to have ‘unlimited undo’ and histories of your documents (and some smaller datasets)
+Having everything on a website like GitHub (or Bitbucket or GitLab) makes it easy to share with other people and collaborate.
+If you keep all of your important programs and files somewhere in the cloud, like on box.com, dropbox, github, it makes it easier to use heterogeneous environments.</description>
+    </item>
+    
+  </channel>
+</rss>

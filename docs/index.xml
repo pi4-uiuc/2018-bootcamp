@@ -6,10 +6,45 @@
     <description>Recent content on 2018 PI4 Computational Bootcamp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git and GitHub</title>
+      <link>/2018/05/21/git-and-github/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/21/git-and-github/</guid>
+      <description>Version Control Following SWC Git Novice 1-6
+Version control makes it possible to have ‘unlimited undo’ and histories of your documents (and some smaller datasets)
+Having everything on a website like GitHub (or Bitbucket or GitLab) makes it easy to share with other people and collaborate.
+If you keep all of your important programs and files somewhere in the cloud, like on box.com, dropbox, github, it makes it easier to use heterogeneous environments.</description>
+    </item>
+    
+    <item>
+      <title>Projects Overview</title>
+      <link>/2018/05/21/projects-overview/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/21/projects-overview/</guid>
+      <description>Class Projects Two groups:
+Each group will have a github repository that contains code developed to answer a specific question with data from the TERRA REF project.
+Here are the project topics / questions and links to their repositories.
+Met data:   Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm Use reanalysis data to validate data streams Extra Credit: Use PEcAn tools to gap-fill missing data  Trait and Geospatial Data   Map trait data Identify outliers Provide QA/QC of plot layout, that we are capturing expected regions of the field   Objectives Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc.</description>
+    </item>
+    
+    <item>
+      <title>The Unix Shell</title>
+      <link>/2018/05/21/the-shell-and-git/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/21/the-shell-and-git/</guid>
+      <description>The Terminal (Unix Shell) “What is a command shell and why would I use one?”
+This tutorial is based on the Software Carpentry Unix Shell) lesson. We will refer to it for background information.
+Today we will learn - how the shell relates to the keyboard, the screen, the operating system, and users’ programs.&amp;quot; - when and why command-line interfaces should be used instead of graphical interfaces. - similarities and differences between a file and a directory.</description>
+    </item>
     
     <item>
       <title>Reading</title>
