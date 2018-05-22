@@ -106,7 +106,7 @@ Monday May 21
 
 ### Day 2: Getting started with R
 
-Tuesday May 30
+Tuesday May 22
 
 1. [Getting Started with R and Rstudio (SWC 1-3)](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/)
 2. Rmarkdown and Reproducible Research 
@@ -122,7 +122,6 @@ Tuesday May 30
    * import, and explore data
    * exploratory data analysis 
    * summarize and next steps
-
 
 The first half of the day will follow the R Novice Gapminder lesson http://swcarpentry.github.io/r-novice-gapminder/
 
