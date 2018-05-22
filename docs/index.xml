@@ -31,8 +31,8 @@ If you keep all of your important programs and files somewhere in the cloud, lik
       <guid>/2018/05/21/projects-overview/</guid>
       <description>Class Projects Two groups:
 Each group will have a github repository that contains code developed to answer a specific question with data from the TERRA REF project.
-Here are the project topics / questions and links to their repositories.
-Met data:   Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm Use reanalysis data to validate data streams Extra Credit: Use PEcAn tools to gap-fill missing data  Trait and Geospatial Data   Map trait data Identify outliers Provide QA/QC of plot layout, that we are capturing expected regions of the field   Objectives Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc.</description>
+Each group will develop an automated analysis of a real-time data stream that will enable visualization and qa/qc. Here are the project topics / questions and links to their repositories.
+Topics Met data:   Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm Use reanalysis data to validate data streams Extra Credit: fill in missing data  Trait and Geospatial Data   Map trait data Identify outliers Generate plot layout and plant traits overlain on full field imagery    Objectives Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc.</description>
     </item>
     
     <item>
@@ -42,8 +42,8 @@ Met data:   Create dynamic live visualizations of weather data streams from Mari
       
       <guid>/2018/05/21/the-shell-and-git/</guid>
       <description>The Terminal (Unix Shell) “What is a command shell and why would I use one?”
-This tutorial is based on the Software Carpentry Unix Shell) lesson. We will refer to it for background information.
-Today we will learn - how the shell relates to the keyboard, the screen, the operating system, and users’ programs.&amp;quot; - when and why command-line interfaces should be used instead of graphical interfaces. - similarities and differences between a file and a directory.</description>
+This tutorial is based on the Software Carpentry Unix Shell) lesson. We will refer to it for background information. As you become familiar with the Unix Shell, it will be worth reviewing some of the more advanced topics in the SWC lesson Shell Extras.
+Today we will learn - how the shell relates to the keyboard, the screen, the operating system, and users’ programs.</description>
     </item>
     
     <item>

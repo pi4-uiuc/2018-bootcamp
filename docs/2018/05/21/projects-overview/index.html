@@ -70,14 +70,16 @@
 <h2>Class Projects</h2>
 <p>Two groups:</p>
 <p>Each group will have a github repository that contains code developed to answer a specific question with data from the TERRA REF project.</p>
-<p>Here are the project topics / questions and links to their repositories.</p>
+<p>Each group will develop an automated analysis of a real-time data stream that will enable visualization and qa/qc. Here are the project topics / questions and links to their repositories.</p>
+<div id="topics" class="section level3">
+<h3>Topics</h3>
 <ol style="list-style-type: decimal">
 <li>Met data:</li>
 </ol>
 <ul>
 <li>Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm</li>
 <li>Use reanalysis data to validate data streams</li>
-<li>Extra Credit: Use PEcAn tools to gap-fill missing data</li>
+<li>Extra Credit: fill in missing data</li>
 </ul>
 <ol start="2" style="list-style-type: decimal">
 <li>Trait and Geospatial Data</li>
@@ -85,52 +87,46 @@
 <ul>
 <li>Map trait data</li>
 <li>Identify outliers</li>
-<li>Provide QA/QC of plot layout, that we are capturing expected regions of the field</li>
+<li>Generate plot layout and plant traits overlain on full field imagery</li>
 </ul>
+</div>
 </div>
 <div id="objectives" class="section level2">
 <h2>Objectives</h2>
-<p>Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc.</p>
-<p>They will have the opportunity to contribute to open source projects (e.g. TERRA REF and PEcAn Projects). Their GitHub repositories, reports, and code will become part of their portfolio.</p>
+<p>Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc. They will have the opportunity to contribute to open source projects (e.g. TERRA REF and PEcAn Projects). Their GitHub repositories, reports, and code will become part of their portfolio.</p>
 <p>Projects will provide the opportunity for students to apply what we have learned in class to new datasets and analyses.</p>
+</div>
+<div id="requirements" class="section level2">
+<h2>Requirements</h2>
 <div id="project-components" class="section level3">
 <h3>Project Components</h3>
 <ul>
-<li>curate data from &gt; 1 source</li>
-<li>use data from &gt; 1 source in a single analysis</li>
-<li>perform exploratory data analysis: generating tables and graphs</li>
-<li>predictions, hypothesis tests and / or inference</li>
-<li>reproducible report</li>
-<li>web app using Shiny</li>
-<li>executable / reusable code</li>
+<li>Combine data from more than one source (the TERRA REF dataset counts as a single source)</li>
+<li>Summarize data in tables and graphs</li>
+<li>Develop quality control metrics to flag data gaps and outliers</li>
+<li>Produce a report in Rmarkdown that can be updated daily or as new data arrive</li>
+<li>Extra credit - create an Rshiny web application</li>
 </ul>
 </div>
 <div id="expectations-requirements" class="section level3">
 <h3>Expectations / Requirements</h3>
 <ul>
-<li>work collaboratively,</li>
-<li>clear tasks in GitHub - at least one / person in progress</li>
-<li>clearly defined roles</li>
+<li>Work collaboratively,</li>
+<li>Create clear tasks in GitHub - at any given time each person should be able to identify the one open issue that they are working on</li>
+<li>Team members should have clearly defined roles</li>
 <li>Use data from &gt; 1 source</li>
-<li>provide metadata for each dataset</li>
-<li>raw data</li>
-<li>derived data</li>
 <li>Exploratory Data Analysis</li>
 <li>multiple figures and tables that <em>illustrate</em> data</li>
-<li>At least one script that</li>
+<li>At least one report that</li>
 <li>takes raw data and generates useful output (figures, new derived data sets, results of analyses)</li>
 <li>runs with sample data in data/ folder</li>
 <li>can be re-run on new data as it becomes available</li>
 <li>outputs to results/ folder</li>
-<li>is stored in src/ folder</li>
-<li>Report with executable code stored in docs/ folder, containing:</li>
-<li>Background / justification</li>
-<li>Data description / illustration</li>
+<li>Documentation (can be wiki or README)</li>
+<li>Background</li>
+<li>Data description and illustration</li>
 <li>Approach (Methods)</li>
-<li>Analysis (results)
-<ul>
-<li>include demo of self-contained script</li>
-</ul></li>
+<li>Analysis (results)</li>
 <li>Discussion
 <ul>
 <li>findings</li>
@@ -183,18 +179,16 @@
 <div id="set-up-project" class="section level4">
 <h4>Set up project</h4>
 <ul>
-<li>create project directories following recommendations in <a href="https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/">“Good Enough Practices for Scientific Computing”</a></li>
-<li>create an Rmd files for analysis</li>
+<li>Create project directories following recommendations in <a href="https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/">“Good Enough Practices for Scientific Computing”</a></li>
+<li>Create an Rmd file for analysis</li>
 </ul>
 </div>
 <div id="download-data" class="section level4">
 <h4>Download data</h4>
 <ul>
-<li>Download and subset data that you will use from BETYdb</li>
-<li>find data that you will need</li>
-<li>design data management plan</li>
-<li>For data not in BETYdb, write down what you will need.</li>
-<li>Tomorrow we will learn to access sensor and meteorological data</li>
+<li>Download and subset at least a sample of the data that you will use</li>
+<li>Describe its contents in the documentation</li>
+<li>Create issues and assign to David if you need data that aren’t available</li>
 </ul>
 </div>
 </div>

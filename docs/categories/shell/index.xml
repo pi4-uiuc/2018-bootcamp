@@ -18,8 +18,8 @@
       
       <guid>/2018/05/21/the-shell-and-git/</guid>
       <description>The Terminal (Unix Shell) “What is a command shell and why would I use one?”
-This tutorial is based on the Software Carpentry Unix Shell) lesson. We will refer to it for background information.
-Today we will learn - how the shell relates to the keyboard, the screen, the operating system, and users’ programs.&amp;quot; - when and why command-line interfaces should be used instead of graphical interfaces. - similarities and differences between a file and a directory.</description>
+This tutorial is based on the Software Carpentry Unix Shell) lesson. We will refer to it for background information. As you become familiar with the Unix Shell, it will be worth reviewing some of the more advanced topics in the SWC lesson Shell Extras.
+Today we will learn - how the shell relates to the keyboard, the screen, the operating system, and users’ programs.</description>
     </item>
     
   </channel>
