@@ -12,7 +12,7 @@ tags: [lesson]
 
 "What is a command shell and why would I use one?"
 
-This tutorial is based on the [Software Carpentry Unix Shell](http://swcarpentry.github.io/shell-novice/))  lesson. We will refer to it for background information.
+This tutorial is based on the [Software Carpentry Unix Shell](http://swcarpentry.github.io/shell-novice/))  lesson. We will refer to it for background information. As you become familiar with the Unix Shell, it will be worth reviewing some of the more advanced topics in the SWC lesson [Shell Extras](http://swcarpentry.github.io/shell-extras/). 
 
 Today we will learn 
 - how the shell relates to the keyboard, the screen, the operating system, and users' programs."
@@ -231,4 +231,3 @@ Can you find:
 * What do you think the following regex characters mean:
   * `[0-9]`? 
   * `[123]`
-  * 
