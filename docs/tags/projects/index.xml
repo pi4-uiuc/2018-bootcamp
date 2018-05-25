@@ -20,7 +20,7 @@
       <description>Class Projects Two groups:
 Each group will have a github repository that contains code developed to answer a specific question with data from the TERRA REF project.
 Each group will develop an automated analysis of a real-time data stream that will enable visualization and qa/qc. Here are the project topics / questions and links to their repositories.
-Topics Met data:   Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm Use reanalysis data to validate data streams Extra Credit: fill in missing data  Trait and Geospatial Data   Map trait data Identify outliers Generate plot layout and plant traits overlain on full field imagery    Objectives Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc.</description>
+Topics  Topic 1: Met data  Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm Use reanalysis data to validate data streams Extra Credit: fill in missing data  Topic 2: Trait and Geospatial Data  Map trait data Identify outliers Generate plot layout and plant traits overlain on full field imagery     Objectives Students should experience a collaborative development cycle similar to what they might encounter as a research programmer / software engineer / data scientist etc.</description>
     </item>
     
   </channel>

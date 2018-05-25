@@ -19,14 +19,14 @@ Each group will develop an automated analysis of a real-time data stream that wi
 
 ### Topics
 
-1. Met data:
-  * Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm
-  * Use reanalysis data to validate data streams
-  * Extra Credit: fill in missing data
-2. Trait and Geospatial Data
-  * Map trait data 
-  * Identify outliers
-  * Generate plot layout and plant traits overlain on full field imagery
+* **Topic 1: Met data**
+    * Create dynamic live visualizations of weather data streams from Maricopa and UIUC Energy Farm
+    * Use reanalysis data to validate data streams
+    * Extra Credit: fill in missing data
+* **Topic 2: Trait and Geospatial Data**
+    * Map trait data 
+    * Identify outliers
+    * Generate plot layout and plant traits overlain on full field imagery
 
 
 ## Objectives
@@ -49,24 +49,24 @@ Projects will provide the opportunity for students to apply what we have learned
 ### Expectations / Requirements
 
 * Work collaboratively, 
-   * Create clear tasks in GitHub - at any given time each person should be able to identify the one open issue that they are working on
-   * Team members should have clearly defined roles
+     * Create clear tasks in GitHub - at any given time each person should be able to identify the one open issue that they are working on
+     * Team members should have clearly defined roles
 * Use data from > 1 source
 * Exploratory Data Analysis
-   * multiple figures and tables that _illustrate_ data
+     * multiple figures and tables that _illustrate_ data
 * At least one report that
-   * takes raw data and generates useful output (figures, new derived data sets, results of analyses)
-   * runs with sample data in data/ folder
-   * can be re-run on new data as it becomes available
-   * outputs to results/ folder
+     * takes raw data and generates useful output (figures, new derived data sets, results of analyses)
+     * runs with sample data in data/ folder
+     * can be re-run on new data as it becomes available
+     * outputs to results/ folder
 * Documentation (can be wiki or README)
-   * Background
-   * Data description and illustration
-   * Approach (Methods)
-   * Analysis (results)
-   * Discussion 
-      * findings
-      * next steps
+     * Background
+     * Data description and illustration
+     * Approach (Methods)
+     * Analysis (results)
+     * Discussion 
+        * findings
+        * next steps
 
 ## Introduction to the TERRA REF dataset
 
@@ -80,13 +80,13 @@ Projects will provide the opportunity for students to apply what we have learned
 
 Form a team of 4-5 people
 
-1. create a team github repository and slack channel
-2. create a README with:
+* create a team github repository and slack channel
+* create a README with:
   * team members
   * ideas that you want to work on
   * what types of data you will need
   * what types of analyses / algorithms you might use
-3. Spend the next three days thinking about your project
+* Spend the next three days thinking about your project
 
 ### Day 2
 
@@ -122,14 +122,14 @@ Form a team of 4-5 people
 ### By end of day you should have
 
 * GitHub issues for 
-  * any data you need
-  * any issues that are blocking your work
+    * any data you need
+    * any issues that are blocking your work
 * A project document containing
-  * steps to access data
-  * >= eploratory data analysis figures
-     * time series
-     * histograms, boxplots
-     * faceted & or color by (trait, site, genotype etc)
-  * outlines of 
-     * background
-     * approach
+    * steps to access data
+    * exploratory data analysis figures
+       * time series
+       * histograms, boxplots
+       * faceted & or color by (trait, site, genotype etc)
+    * outlines of 
+       * background
+       * approach
