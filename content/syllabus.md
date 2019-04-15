@@ -36,7 +36,7 @@ Please do the following **before class starts**:
 
 ### Expectation: Familarity with basic syntax and operations in R
 
-Although the course is aimed at students with limited experience using software, you are expected to complete two introductory courses in order to become familiar with the basic syntax and operations in R. Two free courses from DataCamp are **Required** before the start of the second day (May 22) of the course.
+Although the course is aimed at students with limited experience using software, you are expected to complete two introductory courses in order to become familiar with the basic syntax and operations in R. Two free courses from are **Required** before the start of the second day (May 22) of the course.
 
 ### Materials: Computers and Software 
 
